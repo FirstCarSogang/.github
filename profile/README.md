@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200px" src="https://github.com/FirstCarSogang/frontend/blob/main/public/img/Train.JPG?raw=true"/>
+  <img width="200px" src="https://github.com/FirstCarSogang/frontend/blob/main/src/assets/img/TrainBg.jpg?raw=true"/>
   <h1>서강첫차</h1>
   <p align="middle">새로운, 하지만 비슷한 서강친구 만나기</p>
 </div>
